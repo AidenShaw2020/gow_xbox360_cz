@@ -61,7 +61,3 @@ výše. S jiným vydáním hry nemusí fungovat.
 ## Autoři a poděkování
 
 - původní česká lokalizace pro PC: **CD Projekt**;
-- port a úpravy pro Xbox 360: **AidenShaw2020**.
-
-Tento repozitář obsahuje pouze hotový český Title Update. Není potřeba
-patcher ani česká instalace PC verze.
